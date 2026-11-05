@@ -39,3 +39,4 @@ Prototype stage: locally tested (22/22), **not audited**, **not deployed** to an
 4. Release escrow — all copyright transfers to you
 
 **Serious inquiries only. First funded escrow takes it.**
+squeekchain-project: 0bbb2f80-7d8b-44e1-9a9c-449abc88135e
